@@ -82,7 +82,7 @@ GitHub: [https://github.com/Kalharapasan](https://github.com/Kalharapasan)
 
 ## 📄 License
 
-MIT License
+📄 [License](./LICENSE.md): Proprietary – Permission Required
 
 ---
 
